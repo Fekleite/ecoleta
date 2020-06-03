@@ -11,3 +11,6 @@
 > Node JS + React JS + React native
 
 **Dev**: [Fernanda Leite](https://github.com/Fekleite)
+
+
+[![28929274](https://user-images.githubusercontent.com/48728541/83682251-0daa8300-a5ba-11ea-9049-738f99068e07.png)](https://rocketseat.com.br/)
