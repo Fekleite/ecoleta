@@ -1,5 +1,8 @@
 node_modules
 uploads/*
+<<<<<<< HEAD
 !uploads/.gitkeep
+=======
+>>>>>>> 1269b798cb1c9be6e6efb408aaab733725641c4b
 
 *.sqlite
