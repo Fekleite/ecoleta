@@ -1,5 +1,1 @@
-node_modules/
-uploads/*
-!uploads/.gitkeep
-
-*.sqlite
+node_modules
