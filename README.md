@@ -1,6 +1,6 @@
 <h1 align="center" >🚀 Next Level Week #1</h1>
 
-<p style="font-size: 24px">"Uma semana para acelerar sua evolução como dev e avançar para o próximo nível"</p>
+<p align="center" style="font-size: 24px">"Uma semana para acelerar sua evolução como dev e avançar para o próximo nível"</p>
 
 <div align="center"  > <img src="https://user-images.githubusercontent.com/48728541/83947596-5c406300-a7ee-11ea-8f24-1af43117a769.jpeg" /> </div>
 
