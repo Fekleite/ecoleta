@@ -112,4 +112,4 @@ $ npm start ou yarn start
 </br>
 </br>
 
-<p style="font-size: 16px; color: #fff;">Desevolvido com ❤️ por <a href="https://github.com/Fekleite" style=" font-size: 16px;" >Fernanda Leite </a>
+<p style="font-size: 16px; color: #fff;">Desenvolvido com ❤️ por <a href="https://github.com/Fekleite" style=" font-size: 16px;" >Fernanda Leite </a>
