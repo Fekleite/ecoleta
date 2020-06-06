@@ -100,7 +100,7 @@ $ npm start ou yarn start
 
 <h2>🚀 Importante:</h2>
 
-- Certifique-se de que todas as dependências foram instaledas corretamente.
+- Certifique-se de que todas as dependências foram instaladas corretamente.
 
 - Para o app mobile funcionar corretamente altere a [baseURL](./mobile/src/services/api.ts) para o endereço local da sua máquina.
 
