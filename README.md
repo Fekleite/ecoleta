@@ -1,5 +1,11 @@
 <h1 align="center" >🚀 Next Level Week #1</h1>
 
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
+
 <p align="center" style="font-size: 24px">"Uma semana para acelerar sua evolução como dev e avançar para o próximo nível"</p>
 
 <div align="center"  > <img src="https://user-images.githubusercontent.com/48728541/83947596-5c406300-a7ee-11ea-8f24-1af43117a769.jpeg" /> </div>
@@ -107,6 +113,10 @@ $ npm start ou yarn start
 <h2>🚀 Agradecimentos:</h2>
 
 <p style="font-size: 16px; color: #fff;">Gostaria de agradecer a <a href="https://rocketseat.com.br/" style=" font-size: 16px; " >Rocketseat</a> por se empenhar em fazer conteúdos tão legais gratuitos e que um dev em qualquer nível consegue acompanhar.</p>
+
+<h2>🚀 Licença:</h2>
+
+<p style="font-size: 16px; color: #fff;">Este projeto está licenciado sob a licença MIT - consulte a página <a href="https://opensource.org/licenses/MIT" style=" font-size: 16px; " >LICENSE</a> para obter detalhes.</p>
 
 </br>
 </br>
