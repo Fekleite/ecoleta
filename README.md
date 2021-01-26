@@ -11,11 +11,11 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Fekleite/ecoleta">
   
-  <a href="https://github.com/lukemorales/rocketshoes-react-native/commits/master">
+  <a href="https://github.com/Fekleite/ecoleta/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Fekleite/ecoleta">
   </a>
 
-  <a href="https://github.com/lukemorales/rocketshoes-react-native/issues">
+  <a href="https://github.com/Fekleite/ecoleta/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Fekleite/ecoleta">
   </a>
 </p>
@@ -24,18 +24,12 @@
 
 <p align="justify" style="font-size: 16px">Ecoleta é uma aplicação para registro de pontos de coleta de resíduos como pilhas, baterias, lâmpadas, entre outros que te ajuda a encontrar o ponto de coleta mais perto de você. </p>
 
-<h2>💻 Tecnologias Utilizadas:</h2>
+<h2>💻 Tecnologias:</h2>
 
 - <a href="https://nodejs.org/en/" style="text-decoration: none; font-size: 16px; color: #fff;" >Node JS </a>
 - <a href="https://pt-br.reactjs.org/" style="text-decoration: none; font-size: 16px; color: #fff;" >React JS </a>
 - <a href="https://reactnative.dev/" style="text-decoration: none; font-size: 16px; color: #fff;" >React Native </a>
 - <a href="https://www.typescriptlang.org/" style="text-decoration: none; font-size: 16px; color: #fff;" >TypeScript </a>
-  
-<h2>🚀 Resultado Final:</h2>
-
-<div align="center"  > <img src="https://user-images.githubusercontent.com/48728541/83947603-68c4bb80-a7ee-11ea-93a1-6e36ef6b6889.png" /> </div>
-
-<div align="center"  > <img src="https://user-images.githubusercontent.com/48728541/83947623-93167900-a7ee-11ea-9808-a43fa60623c2.png" /> </div>
 
 <h2>🚀 Pré-requisitos:</h2>
 
@@ -100,17 +94,6 @@ Iniciando a aplicação:
 $ npm start ou yarn start
 ```
 
-<h2>🚀 Endpoints:</h2>
-
-- **GET**: `/items` - Listagem dos items para coleta
-- **POST**: `/points` - Cadastro de pontos de coleta
-- **GET**: `/points/:id` - Mostrar um ponto de coleta específico
-- **GET**: `/points` - Listagem dos pontos para 
-
-<h2>🚀 APIs Externas:</h2>
-
-- <a href="https://servicodados.ibge.gov.br/api/docs/localidades?versao=1" style="font-size: 16px;" >API de Localidade do IBGE</a>
-
 <h2>⚠️ Importante:</h2>
 
 - Certifique-se de que todas as dependências foram instaladas corretamente.
@@ -120,7 +103,7 @@ $ npm start ou yarn start
 
 <h2>📝 Licença:</h2>
 
-<p style="font-size: 16px; color: #fff;">Este projeto está licenciado sob a licença MIT - consulte a página <a href="https://opensource.org/licenses/MIT" style=" font-size: 16px; " >LICENSE</a> para obter detalhes.</p>
+<p>Este projeto está licenciado sob a licença MIT - consulte a página <a href="https://opensource.org/licenses/MIT" style=" font-size: 16px; " >LICENSE</a> para obter detalhes.</p>
 
 </br>
 </br>
